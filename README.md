@@ -1,8 +1,6 @@
 # Sample Hardhat Project
 
-Work in Progress
+Contract Bank is a bug of reentrancy
+Contract New Bank is made to resolve this issue.
 
-```shell
-npx hardhat compile
-
-```
+Use the test.js to test this functionlality.
